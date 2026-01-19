@@ -1,0 +1,5 @@
+# Core Dependencies
+python-dotenv
+
+# Microsoft Agent Framework
+agent-framework
